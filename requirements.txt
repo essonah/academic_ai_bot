@@ -1,0 +1,5 @@
+google-genai>=1.0       # Gemini API: embeddings and answers
+python-dotenv>=1.0      # loads your API key from the .env file
+pypdf>=5.0              # extracts text from PDFs
+numpy>=2.0              # vector math
+chromadb>=1.0           # local vector store
